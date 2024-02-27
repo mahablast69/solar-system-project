@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    padding: 15px;
+    background-repeat: no-repeat;
+    background-image: url("https://media4.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif");
+    background-size: 100% 100%
+  }
